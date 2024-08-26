@@ -1,0 +1,8 @@
+Flask
+pymongo
+requests
+vaderSentiment
+nltk
+spacy
+pandas
+

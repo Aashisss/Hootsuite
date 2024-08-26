@@ -1,0 +1,21 @@
+id,text,sentiment
+1,"I absolutely love this new feature on the app! It makes everything so much easier.",positive
+2,"The recent update has so many bugs. I can't even use the app anymore.",negative
+3,"I'm not sure how I feel about this change. It's different, but I'm still getting used to it.",neutral
+4,"Customer service was very helpful and resolved my issue quickly. Great experience!",positive
+5,"This product is terrible. It broke after just one week of use.",negative
+6,"The new design is okay, but I liked the old one better.",neutral
+7,"I'm so excited for the upcoming release! Can't wait to try it out.",positive
+8,"Why did they remove such a useful feature? Very disappointed.",negative
+9,"It's an average experience, nothing special.",neutral
+10,"Amazing quality! I'm very impressed with the product.",positive
+11,"The app crashes every time I try to open it. Please fix this ASAP.",negative
+12,"The update is decent, but it still needs some improvements.",neutral
+13,"This is the best app I've ever used! Highly recommended.",positive
+14,"The website is slow and unresponsive. Not happy with it.",negative
+15,"The feature is okay, but it could be better.",neutral
+16,"Excellent customer support! They went above and beyond to help me.",positive
+17,"The changes made in the new version are very frustrating. Please revert.",negative
+18,"I'm indifferent about the changes. They don't affect me much.",neutral
+19,"Love the app's new look! Very modern and clean.",positive
+20,"The app is not user-friendly at all. Needs a lot of work.",negative
